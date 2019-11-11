@@ -1,2 +1,2 @@
 # myMovies
-website for a fictional animation website, while using the clone  interface of Apple's UI
+website for a fictional animation website, while using the clone  interface of Apple's UI, built with HTML and CSS
